@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638015840127943949
-    m_Hash: 447771862
+      ticks: 638015861334079710
+    m_Hash: 225883939
   m_LockFileStatus:
     m_FilePath: D:/Project/Unity/GalGame01/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638015840249935227
-    m_Hash: 2969975552
+      ticks: 638015861334079710
+    m_Hash: 3174864239
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:

@@ -1,0 +1,26 @@
+﻿Key	Chinese	English
+StartGame	开始游戏	Start Game
+Load	加载	Load
+Config	配置	Config
+Back	回退	Back
+Title	标题	Title
+ResetDefault	还原设置	Reset\nDefault
+MessageSpeed	文字速度	Message speed
+AutoMessageSpeed	自动文字速度	Auto message speed
+WindowTransparent	窗口大小	Window transparent
+SkipUnread	跳过未读部分	Skip unread
+SkipReleasedBySelection	跳过选择部分	Skip released by selection
+SendMesssageByMouseWheel	滚轮翻阅	Send messsage\nby mouse wheel
+FullScreen	全屏	Full screen
+SoundVolume	音量	Sound volume
+All	所有	All
+Bgm	背景音乐	BGM
+Se	音效	SE
+Ambience	环境音	Ambience
+Voice	语音	Voice
+ContinueUntilNext	继续直到下部分	Continue until next
+StopOnClick	点击停止	StopOnClick
+CgGallery	CG回忆	Cg Gallery
+SceneGallery	场景回忆	Scene Gallery
+SoundRoom	空间音效	Sound Room
+Gallery	回忆	Gallery

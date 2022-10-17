@@ -1,0 +1,23 @@
+﻿Key	Chinese	English
+Import	导入 {0}	Import {0}
+NotLinkedScenarioLabel	{0}: 不是链接场景标签\n{1}	{0} is not linked scenario label.{1}
+RedefinitionScenarioLabel	{0}: 重定义场景标签\n{1}	{0} is redefinition scenario label.{1}
+NotFoundScnarioLabel	{0}: 在所有场景标签中都找不到	{0} is not found in all scenario labels.
+NotSettingSheet	{0}: 不是设置表	{0} is not setting sheet.
+UnknownTag	{0}: 未知标签	{0} is unknown tag.
+SoudType	音频{0}是{1}类型.但是要使用{2}类型		Sound[{0}] is {1} type. But to uesed {2} type.
+BgLayerIsNotDefined	Bg层未定义	Bg layer is not defined
+ReadLayerSaveData	读取保存数据失败，未设置层[{0}]	Read Layer save data error.
+ElseIf	If-else-endif 逻辑错误	If-else-endif logic error.
+Else	If-else-endif 逻辑错误	If-else-endif logic error.
+Endif	If-else-endif 逻辑错误	If-else-endif logic error.
+CommandParseNull	无效命令	Command parse error.
+NotScenarioLabel	{0}:不是场景标签	{0} is not scnario label.
+NotFoundTweenGameObject	因为找不到{0}，无法补间	Gameobject {0} is not found. By tween animation.
+UpdateSceneLabel	场景{0}尚未完成，但新场景{1}已开始。在移动到另一个场景之前使用EndSceneGallery	EndSceneGallery is not set.
+EndSceneGallery	新场景未设置，但EndSceneGallery已触发	This Scenario is not set in SecneGallery. But EndSceneGallery is called.
+ChacacterCountOnImport	字符数 ={0}	Character count = {0}.
+
+
+
+

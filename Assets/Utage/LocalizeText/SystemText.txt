@@ -1,0 +1,42 @@
+﻿Key	Chinese	English
+Yes	是	Yes
+No	否	No
+Ok	好的	OK
+Cancel	取消	Cancel
+Back	回退	Back
+Clear	清除	Clear
+Retry	重试	Retry
+History	历史	History
+Save	保存	Save
+Load	加载	Load
+On	开	On
+Off	关	Off
+Skip	跳过	Skip
+None	空	None
+Sound	声音	Sound
+Review	预览	Review
+Restore	修复	Restore
+Download	下载	Download
+QuitGame	退出游戏？	Quit Game?
+DebugInfo	●调试信息	Debug Info
+DebugLog	●调试日志	Debug Log
+DebugMenu	●调试菜单	Debug Memu
+DeleteSaveAndQuit	删除存档	Delete Save
+DeleteCacheFile	删除缓存	Delete Cache
+Language	语言	Language
+DeleteAllSaveDataFilesTitle	删除所有数据	Delete save data of "Utage"
+DeleteAllSaveDataFilesMessage	确定删除所有数据？		Are you sure you want to clear all saved data of "Utage"?
+DeleteAllCacheFilesTitle	删除所有缓存数据		Delete cache files of "Utage"
+DeleteAllCacheFilesMessage	确定删除所有缓存数据？		Are you sure you want to clear all cache files of "Utage"?
+DeleteAllOutputFilesTitle	删除所有输出日志		Delete output files of "Utage"
+DeleteAllOutputFilesMessage	确定删除所有输出日志？		Are you sure you want to clear all (cache file and save data) output file of "Utage"?
+Downloading	下载中...	Downloading...
+DownloadCount	{0}/{1}	{0}/{1}
+DownloadFinished	存档完成！	Download Finished!
+WarningNotOnline	离线	Warning! Not Online
+WarningNotWifi	无Wifi	Warning! Not Wifi
+ChangeCurrentProject	修改此场景项目数据	Change Current Scenario Data Project
+VersionUpScene	更新此场景	Current UTAGE scene should be upgraded. Is it OK？
+VersionUpScenario	更新此场景	Current UTAGE Scenario should be upgraded. Is it OK？
+Redownload	重新下载	Redownload
+
