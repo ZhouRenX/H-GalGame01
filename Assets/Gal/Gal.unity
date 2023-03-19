@@ -3776,10 +3776,10 @@ Camera:
   m_FocalLength: 50
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0
-    y: 0.20705129
-    width: 1
-    height: 0.58589745
+    x: 0.14779875
+    y: 0
+    width: 0.7044025
+    height: 1
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
@@ -6220,7 +6220,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f928fbcd84d4af4aa44fbbe7f8286ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiMessageWindowManager: {fileID: 0}
+  uiMessageWindowManager: {fileID: 581645343}
   onReset:
     m_PersistentCalls:
       m_Calls: []
@@ -19745,10 +19745,10 @@ Camera:
   m_FocalLength: 50
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0
-    y: 0.20705129
-    width: 1
-    height: 0.58589745
+    x: 0.14779875
+    y: 0
+    width: 0.7044025
+    height: 1
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60

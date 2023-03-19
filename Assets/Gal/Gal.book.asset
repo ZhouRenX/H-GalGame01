@@ -30,6 +30,7 @@ MonoBehaviour:
       - PageCtrl
       - Voice
       - WindowType
+      - Chinese
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -45,6 +46,10 @@ MonoBehaviour:
       - 
       - 
       - Template Scenario Start
+      - 
+      - 
+      - 
+      - "\u5F00\u59CB"
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -60,6 +65,10 @@ MonoBehaviour:
       - 
       - 
       - Template Scenario End
+      - 
+      - 
+      - 
+      - "\u7ED3\u675F"
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -72,7 +81,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/Gal/Gal.xls:Start
     type: 1
-    textLength: 121
+    textLength: 132
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
     entityIndexTbl: 
@@ -461,6 +470,7 @@ MonoBehaviour:
       - PageCtrl
       - Voice
       - WindowType
+      - Chinese
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -476,6 +486,10 @@ MonoBehaviour:
       - 
       - 
       - Template Scenario Start
+      - 
+      - 
+      - 
+      - "\u5F00\u59CB"
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -491,6 +505,10 @@ MonoBehaviour:
       - 
       - 
       - Template Scenario End
+      - 
+      - 
+      - 
+      - "\u7ED3\u675F"
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -503,6 +521,6 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/Gal/Gal.xls:Start
     type: 1
-    textLength: 121
+    textLength: 132
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
