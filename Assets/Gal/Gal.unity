@@ -3776,10 +3776,10 @@ Camera:
   m_FocalLength: 50
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.14779875
-    y: 0
-    width: 0.7044025
-    height: 1
+    x: 0
+    y: 0.2316754
+    width: 1
+    height: 0.5366492
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
@@ -5890,6 +5890,7 @@ GameObject:
   - component: {fileID: 456724002}
   - component: {fileID: 456724012}
   - component: {fileID: 456724013}
+  - component: {fileID: 456724014}
   m_Layer: 0
   m_Name: AdvEngine
   m_TagString: Untagged
@@ -6246,6 +6247,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   unscaled: 0
+--- !u!114 &456724014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 456724000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24f331d454916b24da45e3438708a463, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &466480950
 GameObject:
   m_ObjectHideFlags: 0
@@ -17134,6 +17147,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   key: CgGallery
+--- !u!1 &1321595863
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1321595865}
+  - component: {fileID: 1321595864}
+  m_Layer: 0
+  m_Name: MyAdvEngineController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1321595864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1321595863}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86d781a0d6b8e864e8e97e9e1ba602b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  advEngine: {fileID: 456724002}
+--- !u!4 &1321595865
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1321595863}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.8295304, y: 0.30589294, z: -0.30290544}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1322675212
 GameObject:
   m_ObjectHideFlags: 0
@@ -19745,10 +19802,10 @@ Camera:
   m_FocalLength: 50
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.14779875
-    y: 0
-    width: 0.7044025
-    height: 1
+    x: 0
+    y: 0.2316754
+    width: 1
+    height: 0.5366492
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60

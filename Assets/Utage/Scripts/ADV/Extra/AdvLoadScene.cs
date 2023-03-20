@@ -17,8 +17,10 @@ namespace Utage
 		//LoadSceneという処理を呼ぶ。引数にはAdvCommandSendMessageByNameを持つ
 		void LoadScene(AdvCommandSendMessageByName command)
 		{
+			
 			//Arg3の文字列を取得
 			string sceneName = command.ParseCell<string>(AdvColumnName.Arg3);
+			Debug.Log(sceneName);
 			//Arg3に書いてあるシーンをロード
 			SceneManager.LoadScene(sceneName);
 		}
